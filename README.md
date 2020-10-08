@@ -47,8 +47,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── requirements.txt
 
 ## Technologies Used
-![1200px-Scikit_learn_logo_small svg](https://user-images.githubusercontent.com/68215691/95424722-b39f3d00-0960-11eb-8d8d-f475367827fc.png)
-
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
 
 
 
