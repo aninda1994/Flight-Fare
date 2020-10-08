@@ -47,7 +47,9 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── requirements.txt
 
 ## Technologies Used
-![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/68215691/95423773-48a13680-095f-11eb-8a49-a68744bf7609.png)
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
 
