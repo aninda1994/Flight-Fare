@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
-![Screenshot from 2020-10-08 11-27-27](https://user-images.githubusercontent.com/68215691/95422622-463ddd00-095d-11eb-85ee-b40b41971114.png)
+![Screenshot from 2020-10-08 12-00-26](https://user-images.githubusercontent.com/68215691/95425552-147b4500-0962-11eb-9683-6fe25996e7e0.png)
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
@@ -46,14 +46,12 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── flight_rf.pkl
 ├── requirements.txt
 
+```
+
 ## Technologies Used
-Scikit learn
-Pandas
-Flask
-Matplotlib
-Seaborn
-Gunicorn
-Flask
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 ## Bug / Feature Request
 
