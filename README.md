@@ -11,5 +11,5 @@
   * [Future scope of project](#future-scope)
   
 ## Demo
-![alt text](https://flight-fare-prediction-ml.herokuapp.com/predict)
+![Screenshot from 2020-10-08 11-27-18](https://user-images.githubusercontent.com/68215691/95422549-21e20080-095d-11eb-97e3-bbf5c103d00b.png)
 https://flight-fare-prediction-ml.herokuapp.com/
