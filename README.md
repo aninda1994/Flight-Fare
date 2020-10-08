@@ -47,9 +47,13 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── requirements.txt
 
 ## Technologies Used
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
-
-
+Scikit learn
+Pandas
+Flask
+Matplotlib
+Seaborn
+Gunicorn
+Flask
 
 ## Bug / Feature Request
 
